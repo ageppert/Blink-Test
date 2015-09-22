@@ -13,6 +13,7 @@
   by Scott Fitzgerald
  */
 // Andy Edit Test.
+// Chris added this line to test syncing code
 
 // the setup function runs once when you press reset or power the board
 void setup() {
